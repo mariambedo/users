@@ -1,0 +1,22 @@
+{
+    "home": {
+      "title": "Home Page",
+      "welcome": "Welcome to the Home Page! Explore our app and enjoy the features."
+    },
+    "about": {
+      "title": "About Page",
+      "description": "This is the About Page. Learn more about our app and its features."
+    },
+    "users": {
+      "title": "Users Page",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone"
+    },
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "users": "Users",
+      "toggleTheme": "Switch to Theme"
+    }
+  }
