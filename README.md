@@ -1,5 +1,4 @@
-# Multi-Language React App with Vite
-
+# Multi-Language React Users app
 This is a multi-language React app built with **Vite**. It supports **English** and **Georgian** languages, includes a dark/light theme, and uses a free API to fetch user data. The app is fully responsive and uses modern React features like hooks, custom hooks, and React Router.
 
 ## Features
@@ -39,9 +38,33 @@ This is a multi-language React app built with **Vite**. It supports **English** 
 - Displays user names, emails, and phone numbers.
 - Supports both English and Georgian languages.
 
-## How to Run the Project
+
+### screenshots
+![home page screenshot](src/screens/home.png)
+![about page screenshot](src/screens/about.png)
+![users page screenshot](src/screens/users.png)
+![users page black screenshot](src/screens/users_black.png)
+
+
+## 🚀 How to Run Locally
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+  ```sh
+  git clone https://github.com/mariambedo/users.git
+  ```
+2. Navigate to the project folder:
+  ``` sh
+  cd your-repo-name
+  ```
+3. Install dependencies:
+  ```sh
+  npm install
+  ```
+4. Start the development server:
+  ``` sh
+  npm run dev
+  ```
+
+## Live Demo
+
+https://mariambedo.github.io/users
